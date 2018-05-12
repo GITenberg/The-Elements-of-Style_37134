@@ -1,0 +1,45 @@
+_repo: The-Elements-of-Style_37134
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Strunk, William
+    birthdate: 1869
+    deathdate: 1946
+    gutenberg_agent_id: '38672'
+    url: http://www.gutenberg.org/2009/agents/38672
+description: "The Elements of Style is a prescriptive American English writing style\
+  \ guide in numerous editions. The original was composed by William Strunk Jr., in\
+  \ 1918, and published by Harcourt, in 1920, comprising eight \"elementary rules\
+  \ of usage\", ten \"elementary principles of composition\", \"a few matters of form\"\
+  , a list of 49 \"words and expressions commonly misused\", and a list of 57 \"words\
+  \ often misspelled\". E. B. White greatly enlarged and revised the book for publication\
+  \ by Macmillan in 1959. That was the first edition of the so-called \"Strunk & White\"\
+  , which Time named in 2011 as one of the 100 best and most influential books written\
+  \ in English since 1923.\n From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2011-08-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '37134'
+  lccn: '20017753'
+  wikidata: Q3010059
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English language -- Style'
+- !lcsh 'Report writing'
+- !lcsh 'English language -- Rhetoric'
+- !lcc 'PE'
+title: The Elements of Style
+url: http://www.gutenberg.org/ebooks/37134
+wikipedia:
+- https://fr.wikipedia.org/wiki/The_Elements_of_Style
+- https://zh.wikipedia.org/wiki/%E8%8B%B1%E6%96%87%E5%86%99%E4%BD%9C%E6%8C%87%E5%8D%97
+- https://en.wikiquote.org/wiki/The_Elements_of_Style
+- https://simple.wikipedia.org/wiki/The_Elements_of_Style
+- https://en.wikipedia.org/wiki/The_Elements_of_Style
+- https://it.wikipedia.org/wiki/The_Elements_of_Style
